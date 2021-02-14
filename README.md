@@ -1,3 +1,3 @@
-npm install
-npm i firebase
-npm start
+### npm install
+### npm i firebase
+### npm start
