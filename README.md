@@ -1,3 +1,3 @@
+for run this app
 ### npm install
-### npm i firebase
 ### npm start
